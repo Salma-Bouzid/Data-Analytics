@@ -1,2 +1,2 @@
 # Data-Analytics
-Heart DIsease Data Exploration &amp; Visualization
+Projects for Data Analytics Course at Jacobs University.
